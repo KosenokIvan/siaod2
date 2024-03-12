@@ -14,7 +14,7 @@ while not deque1.is_empty():
         next_title = deque1.pop_start()
         if next_title is None:
             break
-        if next_title < min_title:
+        if next_title.lower() < min_title.lower():
             min_title, next_title = next_title, min_title
         deque1.append_end(next_title)
     deque2.append_end(min_title)
