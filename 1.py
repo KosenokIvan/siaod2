@@ -22,4 +22,4 @@ with open("result1.txt", "w") as out_file:
     while not deque2.is_empty():
         book_name = deque2.pop_start()
         out_file.write(book_name)
-        print(book_name)
+        print(book_name.strip("\n"))
