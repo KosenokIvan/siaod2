@@ -1,127 +1,127 @@
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 3 to 2
-Move disk from 3 to 1
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
-Move disk from 1 to 2
-Move disk from 3 to 2
-Move disk from 1 to 3
-Move disk from 2 to 1
-Move disk from 2 to 3
-Move disk from 1 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 54) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 42) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 55) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 42) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 54) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 67) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 42) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 54) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 42) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 55) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 54) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 42) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 83) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 42) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 54) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 55) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 42) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 54) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 42) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 67) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 54) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 42) from 3 to 2
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 55) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 42) from 2 to 1
+Move disk (size = 1) from 3 to 2
+Move disk (size = 21) from 3 to 1
+Move disk (size = 1) from 2 to 1
+Move disk (size = 54) from 2 to 3
+Move disk (size = 1) from 1 to 3
+Move disk (size = 21) from 1 to 2
+Move disk (size = 1) from 3 to 2
+Move disk (size = 42) from 1 to 3
+Move disk (size = 1) from 2 to 1
+Move disk (size = 21) from 2 to 3
+Move disk (size = 1) from 1 to 3

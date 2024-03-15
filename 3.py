@@ -3,8 +3,9 @@ from stack import Stack
 
 def hanoi(stacks_, from_index, to_index, n, result_str):
     if n <= 1:
-        stacks_[to_index].append(stacks_[from_index].pop())
-        result_str += f"Move disk from {from_index + 1} to {to_index + 1}\n"
+        disk_size = stacks_[from_index].pop()
+        stacks_[to_index].append(disk_size)
+        result_str += f"Move disk (size = {disk_size}) from {from_index + 1} to {to_index + 1}\n"
         return result_str
     else:
         indexes = list(range(3))
