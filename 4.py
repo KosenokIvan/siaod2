@@ -17,4 +17,7 @@ def check_parentheses(text_):
 
 with open("input4.txt") as in_file:
     text = in_file.read()
-    print(check_parentheses(text))
+is_correct = check_parentheses(text)
+print(is_correct)
+with open("result4.txt", "w") as out_file:
+    out_file.write(str(is_correct))

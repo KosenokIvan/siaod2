@@ -18,3 +18,11 @@ with open("hanoi3.txt") as in_file:
     disks = sorted([int(line) for line in in_file.readlines() if line])
 stacks = Stack(disks), Stack(), Stack()
 hanoi(stacks, 0, 2, len(disks))
+result = ""
+for stack in stacks:
+    while not stack.is_empty():
+        result += str(stack.pop()) + " "
+    result += "\n"
+print(result)
+with open("result3.txt", "w") as out_file:
+    out_file.write(result)

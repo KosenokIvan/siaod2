@@ -15,4 +15,7 @@ def check_brackets(text_):
 
 with open("input5.txt") as in_file:
     text = in_file.read()
-    print(check_brackets(text))
+is_correct = check_brackets(text)
+print(is_correct)
+with open("result5.txt", "w") as out_file:
+    out_file.write(str(is_correct))

@@ -20,4 +20,6 @@ while not deque1.is_empty():
     deque2.append_end(min_title)
 with open("result1.txt", "w") as out_file:
     while not deque2.is_empty():
-        out_file.write(deque2.pop_start())
+        book_name = deque2.pop_start()
+        out_file.write(book_name)
+        print(book_name)

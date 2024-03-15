@@ -18,3 +18,4 @@ for char in encrypted_msg:
         key_deque.append_start(key_char)
 with open("result2.txt", "w") as out_file:
     out_file.write(decrypted_msg)
+    print(decrypted_msg)
